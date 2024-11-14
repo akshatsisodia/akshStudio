@@ -961,7 +961,7 @@ nav button {
   color: transparent;
   background: linear-gradient(to right, orange, orangered);
   position: absolute;
-  -webkit-background-clip: text;
+  -webkit-background-clip:text;
   opacity: 0;
   animation-name: load;
   animation-duration: 1s;
@@ -994,6 +994,6 @@ nav button {
 
 @media (max-width: 600px) {
   .loader h1 {
-    font-size: 4vh;
+    font-size: 5.5vh;
   }
 }
