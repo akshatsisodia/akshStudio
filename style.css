@@ -629,7 +629,7 @@ nav button {
   display: none;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 767px) {
   .page1 {
     min-height: 100vh;
     position: relative;
@@ -760,7 +760,8 @@ nav button {
 
   .bottom-part2 p {
     font-weight: 100;
-    width: 82%;
+    width: 80%;
+    font-size: 5.5vw;
     margin-bottom: 0vw;
   }
 
@@ -810,7 +811,7 @@ nav button {
     font-weight: 100;
   }
   #mob-elem p {
-    font-size: 2vw;
+    font-size: 5 svw;
     font-weight: 100;
     color: #929292;
   }
@@ -867,7 +868,7 @@ nav button {
 
   .swiper p {
     width: 100%;
-    font-size: 2vw;
+    font-size: 5vw;
   }
   .page5 {
     min-height: 75vh;
@@ -927,7 +928,7 @@ nav button {
   }
 
   .footer-bottom h5 {
-    font-size: 1vw;
+    font-size: 4svw;
     font-weight: 100;
     padding: 2vw 3vw;
   }
